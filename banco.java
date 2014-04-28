@@ -5,6 +5,8 @@ import akka.actor.ActorSystem;
 import akka.actor.Props;
 import akka.actor.UntypedActor;
 
+// segundo punto laboratorio 3 Sistemas Operativos
+
 public class Banco {
 	
 	public static void main(String[] args) {
